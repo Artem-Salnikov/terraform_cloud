@@ -1,4 +1,3 @@
-
 @startuml
 !define v8_PUML https://raw.githubusercontent.com/plastinin/1ce-icons-for-plantuml/extended/dist/
 !include v8_PUML/common.puml
@@ -9,5 +8,4 @@
 !include v8_PUML/v8_ChartsOfCharacteristicTypes.puml
 !include v8_PUML/v8_DefinedTypes.puml
 !include v8_PUML/v8_Enum.puml
-
 @enduml
